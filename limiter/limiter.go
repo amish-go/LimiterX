@@ -1,4 +1,4 @@
-trewq1package limiter
+package limiter
 
 import (
 	"sync"
