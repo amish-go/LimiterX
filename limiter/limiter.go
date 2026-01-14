@@ -1,4 +1,4 @@
-q1package limiter
+wq1package limiter
 
 import (
 	"sync"
