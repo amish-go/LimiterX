@@ -1,4 +1,4 @@
-apackage main
+bapackage main
 
 import (
 	"encoding/json"
