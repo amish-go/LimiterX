@@ -1,4 +1,4 @@
-aackage main
+ackage main
 
 import (
 	"encoding/json"
